@@ -1,8 +1,3 @@
-};
-O ChatGPT disse:
-ChatGPT
-markdown
-Copiar código
 # 📝 Task Manager API
 
 Este projeto é uma API para gerenciamento de tarefas, construída com **Node.js** e **MongoDB**. Ele suporta a criação, leitura, atualização e exclusão de tarefas, além de uma funcionalidade para marcar/desmarcar tarefas como concluídas. 🎯
