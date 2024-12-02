@@ -19,7 +19,7 @@ Este projeto é uma API para gerenciamento de tarefas, construída com **Node.js
   Remova permanentemente uma tarefa da lista.
 
 - **Marcar tarefas como concluídas** ✅  
-  Marque ou desmarque tarefas concluídas com apenas um clique.
+  Marque ou desmarque tarefas concluidas com apenas um clique.
 
 ---
 
